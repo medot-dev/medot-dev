@@ -40,6 +40,7 @@ Cybersecurity enthusiast on a mission to break into the blue-team / SOC space. I
 
 ## TryHackMe Achievements
 
+
 | Badge | What I Earned It For |
 |-------|----------------------|
 | First Four | Completed 4 rooms in first week |
